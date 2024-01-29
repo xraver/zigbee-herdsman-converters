@@ -1,5 +1,13 @@
 # Changelog
 
+## [18.23.2](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v18.23.1...v18.23.2) (2024-01-29)
+
+
+### Bug Fixes
+
+* Add identify to IKEA E1743/E2001/E2002 ([#6975](https://github.com/Koenkk/zigbee-herdsman-converters/issues/6975)) ([81a0e23](https://github.com/Koenkk/zigbee-herdsman-converters/commit/81a0e236135f6a11d81df07f7ab6e02235878dcf))
+* Migrate DiY MHO-C401N to modernExtend ([#6976](https://github.com/Koenkk/zigbee-herdsman-converters/issues/6976)) ([61086b3](https://github.com/Koenkk/zigbee-herdsman-converters/commit/61086b36834ad10bf4819314e3e25110de49ded0))
+
 ## [18.23.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v18.23.0...v18.23.1) (2024-01-28)
 
 
